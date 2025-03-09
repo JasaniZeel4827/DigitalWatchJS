@@ -59,13 +59,13 @@
     z-index: -1;
 }
 
+
 .clock span {
-    font-size: 80px;
+    font-size: 90px;
     width: 110px;
     display: inline-block;
     text-align: center;
-    position: relative;
-}
+    position: releative;
 
 
 .clock span::after {
